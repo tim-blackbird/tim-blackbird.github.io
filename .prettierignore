@@ -1,0 +1,5 @@
+/.github/
+/vite.config.js
+/postcss.config.cjs
+/tailwind.config.cjs
+/pnpm-lock.yaml
