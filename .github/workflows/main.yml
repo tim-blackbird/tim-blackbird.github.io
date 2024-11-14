@@ -29,5 +29,5 @@ jobs:
       - name: Vite Github Pages Deployer
         uses: skywarth/vite-github-pages-deployer@v1.4.0
         with:
-          package_manager: 'pnpm'
+          package_manager: 'yarn'
         id: deploy_to_pages
